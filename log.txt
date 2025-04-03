@@ -1,8 +1,5 @@
-Current Date and Time: Thu Apr 03, 2025 21:04:15
-Current Date and Time: Thu Apr 03, 2025 21:18:20
-Current Date and Time: Thu Apr 03, 2025 21:38:58
-Current Date and Time: Thu Apr 03, 2025 21:47:08
-Current Date and Time: Thu Apr 03, 2025 21:52:33
-Current Date and Time: Thu Apr 03, 2025 21:58:03
-Current Date and Time: Thu Apr 03, 2025 22:13:12
-Current Date and Time: Thu Apr 03, 2025 22:32:38
+ACTIVITY 6
+• Modify the cron schedule to log every 30 minutes instead.
+• Customize the log message to include the GitHub username.
+• Write another script to count how many times the log has been updated.
+------------------------------------------------
